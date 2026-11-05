@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snowman-winter-film.vercel.app/sitemap.xml
